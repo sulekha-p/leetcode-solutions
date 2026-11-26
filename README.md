@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
 **Name:** Sulekha P  
-**Roll Number:** B25CS0311
+**Roll Number:** R25EF275
 
-Personal LeetCode practice log — part of B25GE0101 portfolio.
+Personal LeetCode practice log — part of portfolio.
 
 ## Table of Contents
 
